@@ -13,3 +13,6 @@ requirements.md
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 日志文件
+*.log
