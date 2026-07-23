@@ -1,0 +1,15 @@
+# AI 内部文档（仅本地保留，不上传）
+AGENTS.md
+requirements.md
+需求文档.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
