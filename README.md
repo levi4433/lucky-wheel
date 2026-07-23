@@ -8,6 +8,10 @@
 
 A single-page front-end app for hosts to project on a big screen and randomly pick employees for scenario drills. Double-click to run.
 
+## 效果预览 / Preview
+
+![大转盘抽签系统预览](docs/preview.png)
+
 ## 功能特性 / Features
 
 - **员工管理 / Employee Management**：增删改姓名（上限 50 人），重名自动拦截
