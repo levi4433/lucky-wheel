@@ -10,6 +10,8 @@ A single-page front-end app for hosts to project on a big screen and randomly pi
 
 ## 效果预览 / Preview
 
+**在线体验 / Live Demo**：https://levi4433.github.io/lucky-wheel/
+
 ![大转盘抽签系统预览](docs/preview.png)
 
 ## 功能特性 / Features
