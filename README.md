@@ -1,6 +1,10 @@
 # 大转盘抽签系统
 
-营业部晨会现场抽签工具：主持人电脑接大屏投影，随机抽取员工参与情景演练。单页 HTML 应用，零依赖、离线可用、数据本地持久化。
+> **单页 HTML 大转盘抽签工具，零依赖、离线可用、数据本地持久化。适合晨会点名、活动抽奖等小团队场景。**
+>
+> *Single-file HTML lucky wheel & random picker. Zero dependencies, offline-ready, local persistence. Ideal for morning meetings, roll calls, and small-team giveaways.*
+
+主持人电脑接大屏投影，随机抽取员工参与情景演练。纯前端单页应用，双击即用。
 
 ## 功能特性
 
