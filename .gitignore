@@ -1,0 +1,25 @@
+# 操作系统生成文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器/IDE 临时文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+
+# 备份文件
+*.backup
+
+# 数据备份文件（含本地数据，禁止入库）
+大转盘备份*.txt
+*.xlsx
+*.csv
+data/
